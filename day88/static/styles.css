@@ -1,0 +1,18 @@
+body {
+    background-color: #CFD2CF;
+}
+
+.header {
+    background-color: #EB1D36;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #F5EDDC;
+}
+
+.checked {
+    text-decoration:line-through;
+    color:darkgrey;
+}
